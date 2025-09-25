@@ -1,2 +1,4 @@
 # AWS-Training
-All associate codes with AWS training
+All associate codes and commands with AWS training
+
+Prepare for AWS Certified Solution Architect Associate Exam
